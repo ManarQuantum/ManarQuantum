@@ -1,73 +1,116 @@
+# ⚛️ Boumendjel Manar
 
-### Quantum Computing | Quantum Communication | Quantum Networking
+### Quantum Computing · Quantum Communication · Quantum Networking
 
-I'm a Computer Science graduate with a Master's degree in **Quantum Computing**, interested in the development of quantum technologies and their applications to communication and networked systems.
+🎓 **M.Sc. Quantum Computing** · Ferhat Abbas University Sétif 1  
+💻 **Computer Science · Software & Systems Engineering**  
+🔬 **Aspiring Quantum Researcher**
+
+---
+
+## 🧭 About Me
+
+I'm a Computer Science graduate with a Master's degree in **Quantum Computing**, interested in building and understanding quantum technologies at the intersection of **physics, computation, communication, and networks**.
 
 My main research interests include:
 
-*  Quantum Communication & Quantum Key Distribution
-*  Quantum Networking & the Quantum Internet
-*  Quantum Optics & Photonic Quantum Systems
-*  Quantum Computing & Quantum Information
-* Satellite-Based Quantum Communication
+🔐 **Quantum Communication & QKD**  
+🌐 **Quantum Networking & the Quantum Internet**  
+🔬 **Quantum Optics & Photonic Systems**  
+⚛️ **Quantum Computing & Quantum Information**  
+🛰️ **Satellite-Based Quantum Communication**
 
-My background in **Computer Science, software engineering, networking, and computational modeling** allows me to approach quantum technologies from both computational and systems perspectives.
-
----
-
-##  Research Interests
-
-**Quantum Communication**
-Quantum Key Distribution, quantum channels, QBER, security analysis, and photonic communication.
-
-**Quantum Networking**
-Entanglement distribution, quantum network architectures, and the development of scalable quantum networks.
-
-**Quantum Optics & Photonics**
-Quantum optical systems, single-photon phenomena, photonic quantum communication, and simulation.
-
-**Quantum Computing**
-Quantum algorithms, quantum circuits, quantum information processing, and computational experiments.
+With a background in **Computer Science, software engineering, networking, and computational modeling**, I enjoy approaching quantum technologies from both computational and systems perspectives.
 
 ---
 
-##  Technologies
+## 🔬 Research Interests
 
-**Languages**
+<table>
+<tr>
+<td width="50%">
 
-Python · C++ · JavaScript
+### 🔐 Quantum Communication
 
-**Quantum**
+- Quantum Key Distribution
+- Quantum Channels
+- QBER & Security Analysis
+- Photonic Communication
 
-Qiskit · Quantum Computing · QKD · Quantum Information
+</td>
+<td width="50%">
 
-**Scientific & Computational**
+### 🌐 Quantum Networking
 
-NumPy · Matplotlib · Jupyter
+- Quantum Network Architectures
+- Entanglement Distribution
+- Quantum Internet
+- Networked Quantum Systems
 
-**Engineering**
+</td>
+</tr>
 
-Computer Networking · Software Engineering · Embedded Systems · Git
+<tr>
+<td width="50%">
+
+### 🔬 Quantum Optics
+
+- Photonic Quantum Systems
+- Single-Photon Phenomena
+- Optical Quantum Communication
+- Physics-Based Simulation
+
+</td>
+<td width="50%">
+
+### ⚛️ Quantum Computing
+
+- Quantum Algorithms
+- Quantum Circuits
+- Quantum Information
+- Computational Experiments
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 🛠️ Technical Stack
 
-##  Background
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**M.Sc. Quantum Computing**
-Ferhat Abbas University Sétif 1 · 2024–2026
+### ⚛️ Quantum
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
-**B.Sc. Computer Science**
-Ferhat Abbas University Sétif 1 · 2021–2024
+`Quantum Computing` · `QKD` · `Quantum Information` · `Quantum Communication`
 
-**Master's Thesis**
+### 📊 Scientific Computing
 
-*Physics-Aware Performance Evaluation of Satellite-to-Ground Photonic Quantum Communication Links in Low Earth Orbit Systems.*
+`NumPy` · `Matplotlib` · `Jupyter` · `Python`
+
+### 🌐 Engineering
+
+`Computer Networking` · `Software Engineering` · `Embedded Systems` · `Git`
 
 ---
 
+## 🚀 What I'm Building
 
-##  Connect
+I'm currently developing projects across different areas of quantum technology:
 
--  [LinkedIn](https://www.linkedin.com/in/manar-boumendjel-6169b1290/)
--  [Email](mailto:boumenamal@gmail.com)
+```text
+        QUANTUM COMPUTING
+                │
+        ┌───────┼────────┐
+        ↓       ↓        ↓
+   COMMUNICATION  OPTICS  NETWORKING
+        │       │        │
+       QKD   PHOTONICS  Q. INTERNET
+        │       │        │
+        └───────┼────────┘
+                ↓
+       QUANTUM TECHNOLOGIES
