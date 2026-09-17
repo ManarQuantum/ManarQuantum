@@ -1,16 +1,71 @@
-## Hi there 👋
 
-<!--
-**ManarQuantum/ManarQuantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quantum Computing | Quantum Communication | Quantum Networking
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate with a Master's degree in **Quantum Computing**, interested in the development of quantum technologies and their applications to communication and networked systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main research interests include:
+
+*  Quantum Communication & Quantum Key Distribution
+*  Quantum Networking & the Quantum Internet
+*  Quantum Optics & Photonic Quantum Systems
+*  Quantum Computing & Quantum Information
+* Satellite-Based Quantum Communication
+
+My background in **Computer Science, software engineering, networking, and computational modeling** allows me to approach quantum technologies from both computational and systems perspectives.
+
+---
+
+##  Research Interests
+
+**Quantum Communication**
+Quantum Key Distribution, quantum channels, QBER, security analysis, and photonic communication.
+
+**Quantum Networking**
+Entanglement distribution, quantum network architectures, and the development of scalable quantum networks.
+
+**Quantum Optics & Photonics**
+Quantum optical systems, single-photon phenomena, photonic quantum communication, and simulation.
+
+**Quantum Computing**
+Quantum algorithms, quantum circuits, quantum information processing, and computational experiments.
+
+---
+
+##  Technologies
+
+**Languages**
+
+Python · C++ · JavaScript
+
+**Quantum**
+
+Qiskit · Quantum Computing · QKD · Quantum Information
+
+**Scientific & Computational**
+
+NumPy · Matplotlib · Jupyter
+
+**Engineering**
+
+Computer Networking · Software Engineering · Embedded Systems · Git
+
+---
+
+
+##  Background
+
+**M.Sc. Quantum Computing**
+Ferhat Abbas University Sétif 1 · 2024–2026
+
+**B.Sc. Computer Science**
+Ferhat Abbas University Sétif 1 · 2021–2024
+
+**Master's Thesis**
+
+*Physics-Aware Performance Evaluation of Satellite-to-Ground Photonic Quantum Communication Links in Low Earth Orbit Systems.*
+
+---
+
+##  Connect
+
+[LinkedIn](#www.linkedin.com/in/manar-boumendjel-6169b1290) · [Email](#boumenamal@gmail.com)
