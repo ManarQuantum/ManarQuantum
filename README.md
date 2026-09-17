@@ -69,5 +69,5 @@ Ferhat Abbas University Sétif 1 · 2021–2024
 
 ##  Connect
 
--  [LinkedIn](https://www.linkedin.com/in/manar-boumendjel/)
+-  [LinkedIn](www.linkedin.com/in/manar-boumendjel-6169b1290)
 -  [Email](mailto:boumenamal@gmail.com)
